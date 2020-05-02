@@ -9,9 +9,9 @@
     "name": "typicode"
   },
   "montaef": {
-    "EDP": "LBT",
-    "1828": "LBT On_Time",
-    "1857": "LBT Delayed",
-    "1929": "LBT Cancelled"
+    "EDP": "LBT 
+1828 On_Time
+1857 Delayed
+1929 LBT Cancelled"
   }
 }
